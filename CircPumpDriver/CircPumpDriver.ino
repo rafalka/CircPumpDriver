@@ -70,14 +70,14 @@ static const circ_shedule_table_t workweek_shedule_table = {
 };
 #else
 static const circ_shedule_table_t workweek_shedule_table = {
-        /* Monday */    { { CT( 0, 0, 0 ), CT( 1, 0, 0 ) }, { CT(  6,00 , 0 ), CT( 24, 0, 0 ) }, },
-        /* Tuesday */   { { CT( 0, 0, 0 ), CT( 1, 0, 0 ) }, { CT(  6,00 , 0 ), CT( 24, 0, 0 ) }, },
-        /* Wednesday */ { { CT( 0, 0, 0 ), CT( 1, 0, 0 ) }, { CT(  6,00 , 0 ), CT( 24, 0, 0 ) }, },
-        /* Thursay */   { { CT( 0, 0, 0 ), CT( 1, 0, 0 ) }, { CT(  6,00 , 0 ), CT( 24, 0, 0 ) }, },
-        /* Friday */    { { CT( 0, 0, 0 ), CT( 1, 0, 0 ) }, { CT(  6,00 , 0 ), CT( 24, 0, 0 ) }, },
-        /* Saturday */  { { CT( 0, 0, 0 ), CT( 2, 0, 0 ) }, { CT(  8,00 , 0 ), CT( 24, 0, 0 ) }, },
+        /* Monday */    { { CT( 0, 0, 0 ), CT( 1, 0, 0 ) }, { CT( 3,55, 0 ), CT( 4,55, 0 ) }, { CT(  6,00 , 0 ), CT( 24, 0, 0 ) }, },
+        /* Tuesday */   { { CT( 0, 0, 0 ), CT( 1, 0, 0 ) }, { CT( 3,55, 0 ), CT( 4,55, 0 ) }, { CT(  6,00 , 0 ), CT( 24, 0, 0 ) }, },
+        /* Wednesday */ { { CT( 0, 0, 0 ), CT( 1, 0, 0 ) }, { CT( 3,55, 0 ), CT( 4,55, 0 ) }, { CT(  6,00 , 0 ), CT( 24, 0, 0 ) }, },
+        /* Thursay */   { { CT( 0, 0, 0 ), CT( 1, 0, 0 ) }, { CT( 3,55, 0 ), CT( 4,55, 0 ) }, { CT(  6,00 , 0 ), CT( 24, 0, 0 ) }, },
+        /* Friday */    { { CT( 0, 0, 0 ), CT( 1, 0, 0 ) }, { CT( 3,55, 0 ), CT( 4,55, 0 ) }, { CT(  6,00 , 0 ), CT( 24, 0, 0 ) }, },
+        /* Saturday */  { { CT( 0, 0, 0 ), CT( 3, 0, 0 ) }, { CT(  8,00 , 0 ), CT( 24, 0, 0 ) }, },
         /* Sunday */    { { CT( 0, 0, 0 ), CT( 2, 0, 0 ) }, { CT(  8,00 , 0 ), CT( 24, 0, 0 ) }, },
-        /* Holiday */   { { CT( 0, 0, 0 ), CT( 2, 0, 0 ) }, { CT(  8,00 , 0 ), CT( 24, 0, 0 ) }, }
+        /* Holiday */   { { CT( 0, 0, 0 ), CT( 3, 0, 0 ) }, { CT(  8,00 , 0 ), CT( 24, 0, 0 ) }, }
 };
 #endif
 static const circ_shedule_table_t vacations_shedule_table = {
