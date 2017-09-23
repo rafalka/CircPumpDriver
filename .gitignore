@@ -41,6 +41,7 @@ RemoteSystemsTempFiles/
 .launches/
 .metadata/
 .settings/
+.jxbrowser-data/
 [Dd]ebug/
 [Rr]elease/
 

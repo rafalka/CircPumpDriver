@@ -10,4 +10,5 @@
 	<ignoreDefaultDeviceSettings value="true"/>
 	<filesToOpen value=""/>
 	<isTargetManual value="false"/>
+	<energia.libraryRootMacroName value="ENERGIA_LIB__CORE"/>
 </projectOptions>

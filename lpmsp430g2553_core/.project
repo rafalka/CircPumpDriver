@@ -27,129 +27,144 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>HardwareSerial.cpp</name>
-			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/HardwareSerial.cpp</locationURI>
+			<name>src</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
 		</link>
 		<link>
-			<name>IPAddress.cpp</name>
-			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/IPAddress.cpp</locationURI>
+			<name>src/core</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
 		</link>
 		<link>
-			<name>MACAddress.cpp</name>
+			<name>src/core/HardwareSerial.cpp</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/MACAddress.cpp</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/HardwareSerial.cpp</locationURI>
 		</link>
 		<link>
-			<name>Print.cpp</name>
+			<name>src/core/IPAddress.cpp</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/Print.cpp</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/IPAddress.cpp</locationURI>
 		</link>
 		<link>
-			<name>Stream.cpp</name>
+			<name>src/core/MACAddress.cpp</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/Stream.cpp</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/MACAddress.cpp</locationURI>
 		</link>
 		<link>
-			<name>TimerSerial.cpp</name>
+			<name>src/core/Print.cpp</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/TimerSerial.cpp</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/Print.cpp</locationURI>
 		</link>
 		<link>
-			<name>Tone.cpp</name>
+			<name>src/core/Stream.cpp</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/Tone.cpp</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/Stream.cpp</locationURI>
 		</link>
 		<link>
-			<name>WInterrupts.c</name>
+			<name>src/core/TimerSerial.cpp</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/WInterrupts.c</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/TimerSerial.cpp</locationURI>
 		</link>
 		<link>
-			<name>WMath.cpp</name>
+			<name>src/core/Tone.cpp</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/WMath.cpp</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/Tone.cpp</locationURI>
 		</link>
 		<link>
-			<name>WString.cpp</name>
+			<name>src/core/WInterrupts.c</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/WString.cpp</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/WInterrupts.c</locationURI>
 		</link>
 		<link>
-			<name>Wire.cpp</name>
+			<name>src/core/WMath.cpp</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/Wire.cpp</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/WMath.cpp</locationURI>
 		</link>
 		<link>
-			<name>atof.c</name>
+			<name>src/core/WString.cpp</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/atof.c</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/WString.cpp</locationURI>
 		</link>
 		<link>
-			<name>dtostrf.c</name>
+			<name>src/core/Wire.cpp</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/avr/dtostrf.c</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/Wire.cpp</locationURI>
 		</link>
 		<link>
-			<name>itoa.c</name>
+			<name>src/core/atof.c</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/itoa.c</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/atof.c</locationURI>
 		</link>
 		<link>
-			<name>main.cpp</name>
-			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/main.cpp</locationURI>
+			<name>src/core/avr</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
 		</link>
 		<link>
-			<name>new.cpp</name>
+			<name>src/core/itoa.c</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/new.cpp</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/itoa.c</locationURI>
 		</link>
 		<link>
-			<name>random.c</name>
+			<name>src/core/main.cpp</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/random.c</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/main.cpp</locationURI>
 		</link>
 		<link>
-			<name>twi.c</name>
+			<name>src/core/new.cpp</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/twi.c</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/new.cpp</locationURI>
 		</link>
 		<link>
-			<name>twi_sw.c</name>
+			<name>src/core/random.c</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/twi_sw.c</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/random.c</locationURI>
 		</link>
 		<link>
-			<name>usci_isr_handler.c</name>
+			<name>src/core/twi.c</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/usci_isr_handler.c</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/twi.c</locationURI>
 		</link>
 		<link>
-			<name>wiring.c</name>
+			<name>src/core/twi_sw.c</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/wiring.c</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/twi_sw.c</locationURI>
 		</link>
 		<link>
-			<name>wiring_analog.c</name>
+			<name>src/core/usci_isr_handler.c</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/wiring_analog.c</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/usci_isr_handler.c</locationURI>
 		</link>
 		<link>
-			<name>wiring_digital.c</name>
+			<name>src/core/wiring.c</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/wiring_digital.c</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/wiring.c</locationURI>
 		</link>
 		<link>
-			<name>wiring_pulse.c</name>
+			<name>src/core/wiring_analog.c</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/wiring_pulse.c</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/wiring_analog.c</locationURI>
 		</link>
 		<link>
-			<name>wiring_shift.c</name>
+			<name>src/core/wiring_digital.c</name>
 			<type>1</type>
-			<locationURI>ENERGIA_ROOT/hardware/msp430/cores/msp430/wiring_shift.c</locationURI>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/wiring_digital.c</locationURI>
+		</link>
+		<link>
+			<name>src/core/wiring_pulse.c</name>
+			<type>1</type>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/wiring_pulse.c</locationURI>
+		</link>
+		<link>
+			<name>src/core/wiring_shift.c</name>
+			<type>1</type>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/wiring_shift.c</locationURI>
+		</link>
+		<link>
+			<name>src/core/avr/dtostrf.c</name>
+			<type>1</type>
+			<locationURI>ENERGIA_TARGET_ROOT/cores/msp430/avr/dtostrf.c</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>

@@ -94,7 +94,7 @@ public:
     /** One day, expressed in seconds */
     static const uint32_t ONE_DAY = 86400;
 
-    static const uint32_t EPOCH_ERROR = UINT32_MAX;
+    static const uint32_t EPOCH_ERROR = 4294967295UL /* UINT32_MAX */;
 
     static const int8_t  UTC_OFFSET_HOUR_NORM = 1;
     static const int8_t  UTC_OFFSET_HOUR_DST  = 2;
