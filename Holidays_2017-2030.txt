@@ -1,0 +1,180 @@
+2017-01-1;niedziela - Nowy Rok, Œwiêtej Bo¿ej Rodzicielki
+2017-01-6;pi¹tek - Trzech Króli (Objawienie Pañskie)
+2017-04-16;niedziela - Wielkanoc
+2017-04-17;poniedzia³ek - Poniedzia³ek Wielkanocny
+2017-05-1;poniedzia³ek - Œwiêto Pracy
+2017-05-3;œroda - Œwiêto Konstytucji 3 maja
+2017-06-4;niedziela - Zes³anie Ducha Œwiêtego (Zielone Œwi¹tki)
+2017-06-15;czwartek - Bo¿e Cia³o
+2017-08-15;wtorek - Œwiêto Wojska Polskiego, Wniebowziêcie Najœwiêtszej Maryi Panny
+2017-11-1;œroda - Wszystkich Œwiêtych
+2017-11-11;sobota - Œwiêto Niepodleg³oœci
+2017-12-25;poniedzia³ek - Bo¿e Narodzenie (pierwszy dzieñ)
+2017-12-26;wtorek - Bo¿e Narodzenie (drugi dzieñ)
+2018-01-1;poniedzia³ek - Nowy Rok, Œwiêtej Bo¿ej Rodzicielki
+2018-01-6;sobota - Trzech Króli (Objawienie Pañskie)
+2018-04-1;niedziela - Wielkanoc
+2018-04-2;poniedzia³ek - Poniedzia³ek Wielkanocny
+2018-05-1;wtorek - Œwiêto Pracy
+2018-05-3;czwartek - Œwiêto Konstytucji 3 maja
+2018-05-20;niedziela - Zes³anie Ducha Œwiêtego (Zielone Œwi¹tki)
+2018-05-31;czwartek - Bo¿e Cia³o
+2018-08-15;œroda - Œwiêto Wojska Polskiego, Wniebowziêcie Najœwiêtszej Maryi Panny
+2018-11-1;czwartek - Wszystkich Œwiêtych
+2018-11-11;niedziela - Œwiêto Niepodleg³oœci
+2018-12-25;wtorek - Bo¿e Narodzenie (pierwszy dzieñ)
+2018-12-26;œroda - Bo¿e Narodzenie (drugi dzieñ)
+2019-01-1;wtorek - Nowy Rok, Œwiêtej Bo¿ej Rodzicielki
+2019-01-6;niedziela - Trzech Króli (Objawienie Pañskie)
+2019-04-21;niedziela - Wielkanoc
+2019-04-22;poniedzia³ek - Poniedzia³ek Wielkanocny
+2019-05-1;œroda - Œwiêto Pracy
+2019-05-3;pi¹tek - Œwiêto Konstytucji 3 maja
+2019-06-9;niedziela - Zes³anie Ducha Œwiêtego (Zielone Œwi¹tki)
+2019-06-20;czwartek - Bo¿e Cia³o
+2019-08-15;czwartek - Œwiêto Wojska Polskiego, Wniebowziêcie Najœwiêtszej Maryi Panny
+2019-11-1;pi¹tek - Wszystkich Œwiêtych
+2019-11-11;poniedzia³ek - Œwiêto Niepodleg³oœci
+2019-12-25;œroda - Bo¿e Narodzenie (pierwszy dzieñ)
+2019-12-26;czwartek - Bo¿e Narodzenie (drugi dzieñ)
+2020-01-1;œroda - Nowy Rok, Œwiêtej Bo¿ej Rodzicielki
+2020-01-6;poniedzia³ek - Trzech Króli (Objawienie Pañskie)
+2020-04-12;niedziela - Wielkanoc
+2020-04-13;poniedzia³ek - Poniedzia³ek Wielkanocny
+2020-05-1;pi¹tek - Œwiêto Pracy
+2020-05-3;niedziela - Œwiêto Konstytucji 3 maja
+2020-05-31;niedziela - Zes³anie Ducha Œwiêtego (Zielone Œwi¹tki)
+2020-06-11;czwartek - Bo¿e Cia³o
+2020-08-15;sobota - Œwiêto Wojska Polskiego, Wniebowziêcie Najœwiêtszej Maryi Panny
+2020-11-1;niedziela - Wszystkich Œwiêtych
+2020-11-11;œroda - Œwiêto Niepodleg³oœci
+2020-12-25;pi¹tek - Bo¿e Narodzenie (pierwszy dzieñ)
+2020-12-26;sobota - Bo¿e Narodzenie (drugi dzieñ)
+2021-01-1;pi¹tek - Nowy Rok, Œwiêtej Bo¿ej Rodzicielki
+2021-01-6;œroda - Trzech Króli (Objawienie Pañskie)
+2021-04-4;niedziela - Wielkanoc
+2021-04-5;poniedzia³ek - Poniedzia³ek Wielkanocny
+2021-05-1;sobota - Œwiêto Pracy
+2021-05-3;poniedzia³ek - Œwiêto Konstytucji 3 maja
+2021-05-23;niedziela - Zes³anie Ducha Œwiêtego (Zielone Œwi¹tki)
+2021-06-3;czwartek - Bo¿e Cia³o
+2021-08-15;niedziela - Œwiêto Wojska Polskiego, Wniebowziêcie Najœwiêtszej Maryi Panny
+2021-11-1;poniedzia³ek - Wszystkich Œwiêtych
+2021-11-11;czwartek - Œwiêto Niepodleg³oœci
+2021-12-25;sobota - Bo¿e Narodzenie (pierwszy dzieñ)
+2021-12-26;niedziela - Bo¿e Narodzenie (drugi dzieñ)
+2022-01-1;sobota - Nowy Rok, Œwiêtej Bo¿ej Rodzicielki
+2022-01-6;czwartek - Trzech Króli (Objawienie Pañskie)
+2022-04-17;niedziela - Wielkanoc
+2022-04-18;poniedzia³ek - Poniedzia³ek Wielkanocny
+2022-05-1;niedziela - Œwiêto Pracy
+2022-05-3;wtorek - Œwiêto Konstytucji 3 maja
+2022-06-5;niedziela - Zes³anie Ducha Œwiêtego (Zielone Œwi¹tki)
+2022-06-16;czwartek - Bo¿e Cia³o
+2022-08-15;poniedzia³ek - Œwiêto Wojska Polskiego, Wniebowziêcie Najœwiêtszej Maryi Panny
+2022-11-1;wtorek - Wszystkich Œwiêtych
+2022-11-11;pi¹tek - Œwiêto Niepodleg³oœci
+2022-12-25;niedziela - Bo¿e Narodzenie (pierwszy dzieñ)
+2022-12-26;poniedzia³ek - Bo¿e Narodzenie (drugi dzieñ)
+2023-01-1;niedziela - Nowy Rok, Œwiêtej Bo¿ej Rodzicielki
+2023-01-6;pi¹tek - Trzech Króli (Objawienie Pañskie)
+2023-04-9;niedziela - Wielkanoc
+2023-04-10;poniedzia³ek - Poniedzia³ek Wielkanocny
+2023-05-1;poniedzia³ek - Œwiêto Pracy
+2023-05-3;œroda - Œwiêto Konstytucji 3 maja
+2023-05-28;niedziela - Zes³anie Ducha Œwiêtego (Zielone Œwi¹tki)
+2023-06-8;czwartek - Bo¿e Cia³o
+2023-08-15;wtorek - Œwiêto Wojska Polskiego, Wniebowziêcie Najœwiêtszej Maryi Panny
+2023-11-1;œroda - Wszystkich Œwiêtych
+2023-11-11;sobota - Œwiêto Niepodleg³oœci
+2023-12-25;poniedzia³ek - Bo¿e Narodzenie (pierwszy dzieñ)
+2023-12-26;wtorek - Bo¿e Narodzenie (drugi dzieñ)
+2024-01-1;poniedzia³ek - Nowy Rok, Œwiêtej Bo¿ej Rodzicielki
+2024-01-6;sobota - Trzech Króli (Objawienie Pañskie)
+2024;31 marca;niedziela - Wielkanoc
+2024-04-1;poniedzia³ek - Poniedzia³ek Wielkanocny
+2024-05-1;œroda - Œwiêto Pracy
+2024-05-3;pi¹tek - Œwiêto Konstytucji 3 maja
+2024-05-19;niedziela - Zes³anie Ducha Œwiêtego (Zielone Œwi¹tki)
+2024-05-30;czwartek - Bo¿e Cia³o
+2024-08-15;czwartek - Œwiêto Wojska Polskiego, Wniebowziêcie Najœwiêtszej Maryi Panny
+2024-11-1;pi¹tek - Wszystkich Œwiêtych
+2024-11-11;poniedzia³ek - Œwiêto Niepodleg³oœci
+2024-12-25;œroda - Bo¿e Narodzenie (pierwszy dzieñ)
+2024-12-26;czwartek - Bo¿e Narodzenie (drugi dzieñ)
+2025-01-1;œroda - Nowy Rok, Œwiêtej Bo¿ej Rodzicielki
+2025-01-6;poniedzia³ek - Trzech Króli (Objawienie Pañskie)
+2025-04-20;niedziela - Wielkanoc
+2025-04-21;poniedzia³ek - Poniedzia³ek Wielkanocny
+2025-05-1;czwartek - Œwiêto Pracy
+2025-05-3;sobota - Œwiêto Konstytucji 3 maja
+2025-06-8;niedziela - Zes³anie Ducha Œwiêtego (Zielone Œwi¹tki)
+2025-06-19;czwartek - Bo¿e Cia³o
+2025-08-15;pi¹tek - Œwiêto Wojska Polskiego, Wniebowziêcie Najœwiêtszej Maryi Panny
+2025-11-1;sobota - Wszystkich Œwiêtych
+2025-11-11;wtorek - Œwiêto Niepodleg³oœci
+2025-12-25;czwartek - Bo¿e Narodzenie (pierwszy dzieñ)
+2025-12-26;pi¹tek - Bo¿e Narodzenie (drugi dzieñ)
+2026-01-1;czwartek - Nowy Rok, Œwiêtej Bo¿ej Rodzicielki
+2026-01-6;wtorek - Trzech Króli (Objawienie Pañskie)
+2026-04-5;niedziela - Wielkanoc
+2026-04-6;poniedzia³ek - Poniedzia³ek Wielkanocny
+2026-05-1;pi¹tek - Œwiêto Pracy
+2026-05-3;niedziela - Œwiêto Konstytucji 3 maja
+2026-05-24;niedziela - Zes³anie Ducha Œwiêtego (Zielone Œwi¹tki)
+2026-06-4;czwartek - Bo¿e Cia³o
+2026-08-15;sobota - Œwiêto Wojska Polskiego, Wniebowziêcie Najœwiêtszej Maryi Panny
+2026-11-1;niedziela - Wszystkich Œwiêtych
+2026-11-11;œroda - Œwiêto Niepodleg³oœci
+2026-12-25;pi¹tek - Bo¿e Narodzenie (pierwszy dzieñ)
+2026-12-26;sobota - Bo¿e Narodzenie (drugi dzieñ)
+2027-01-1;pi¹tek - Nowy Rok, Œwiêtej Bo¿ej Rodzicielki
+2027-01-6;œroda - Trzech Króli (Objawienie Pañskie)
+2027;28 marca;niedziela - Wielkanoc
+2027;29 marca;poniedzia³ek - Poniedzia³ek Wielkanocny
+2027-05-1;sobota - Œwiêto Pracy
+2027-05-3;poniedzia³ek - Œwiêto Konstytucji 3 maja
+2027-05-16;niedziela - Zes³anie Ducha Œwiêtego (Zielone Œwi¹tki)
+2027-05-27;czwartek - Bo¿e Cia³o
+2027-08-15;niedziela - Œwiêto Wojska Polskiego, Wniebowziêcie Najœwiêtszej Maryi Panny
+2027-11-1;poniedzia³ek - Wszystkich Œwiêtych
+2027-11-11;czwartek - Œwiêto Niepodleg³oœci
+2027-12-25;sobota - Bo¿e Narodzenie (pierwszy dzieñ)
+2027-12-26;niedziela - Bo¿e Narodzenie (drugi dzieñ)
+2028-01-1;sobota - Nowy Rok, Œwiêtej Bo¿ej Rodzicielki
+2028-01-6;czwartek - Trzech Króli (Objawienie Pañskie)
+2028-04-16;niedziela - Wielkanoc
+2028-04-17;poniedzia³ek - Poniedzia³ek Wielkanocny
+2028-05-1;poniedzia³ek - Œwiêto Pracy
+2028-05-3;œroda - Œwiêto Konstytucji 3 maja
+2028-06-4;niedziela - Zes³anie Ducha Œwiêtego (Zielone Œwi¹tki)
+2028-06-15;czwartek - Bo¿e Cia³o
+2028-08-15;wtorek - Œwiêto Wojska Polskiego, Wniebowziêcie Najœwiêtszej Maryi Panny
+2028-11-1;œroda - Wszystkich Œwiêtych
+2028-11-11;sobota - Œwiêto Niepodleg³oœci
+2028-12-25;poniedzia³ek - Bo¿e Narodzenie (pierwszy dzieñ)
+2028-12-26;wtorek - Bo¿e Narodzenie (drugi dzieñ)
+2029-04-1;niedziela - Wielkanoc
+2029-04-2;poniedzia³ek - Poniedzia³ek Wielkanocny
+2029-05-1;wtorek - Œwiêto Pracy
+2029-05-3;czwartek - Œwiêto Konstytucji 3 maja
+2029-05-20;niedziela - Zes³anie Ducha Œwiêtego (Zielone Œwi¹tki)
+2029-05-31;czwartek - Bo¿e Cia³o
+2029-08-15;œroda - Œwiêto Wojska Polskiego, Wniebowziêcie Najœwiêtszej Maryi Panny
+2029-11-1;czwartek - Wszystkich Œwiêtych
+2029-11-11;niedziela - Œwiêto Niepodleg³oœci
+2029-12-25;wtorek - Bo¿e Narodzenie (pierwszy dzieñ)
+2029-12-26;œroda - Bo¿e Narodzenie (drugi dzieñ)
+2030-01-1;wtorek - Nowy Rok, Œwiêtej Bo¿ej Rodzicielki
+2030-01-6;niedziela - Trzech Króli (Objawienie Pañskie)
+2030-04-21;niedziela - Wielkanoc
+2030-04-22;poniedzia³ek - Poniedzia³ek Wielkanocny
+2030-05-1;œroda - Œwiêto Pracy
+2030-05-3;pi¹tek - Œwiêto Konstytucji 3 maja
+2030-06-9;niedziela - Zes³anie Ducha Œwiêtego (Zielone Œwi¹tki)
+2030-06-20;czwartek - Bo¿e Cia³o
+2030-08-15;czwartek - Œwiêto Wojska Polskiego, Wniebowziêcie Najœwiêtszej Maryi Panny
+2030-11-1;pi¹tek - Wszystkich Œwiêtych
+2030-11-11;poniedzia³ek - Œwiêto Niepodleg³oœci
+2030-12-25;œroda - Bo¿e Narodzenie (pierwszy dzieñ)
+2030-12-26;czwartek - Bo¿e Narodzenie (drugi dzieñ)
